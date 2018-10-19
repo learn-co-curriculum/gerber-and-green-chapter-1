@@ -1,16 +1,7 @@
 ## Objectives
 
-1. Objective 1
-2. Objective 2
+1. Read the First Chapter of Gerber and Green
 
-## Instructions
+## [Download PDF](https://aviflombaum.s3.amazonaws.com/GerberGreen.2012_1.pdf)
 
-Make the tests pass.
-
-### Part 1: Do Some Stuff
-
-## Resources
-
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/gerber-and-green-chapter-1'>Gerber and Green Chapter 1</a> on Learn.co and start learning to code for free.</p>
+<iframe src="https://aviflombaum.s3.amazonaws.com/GerberGreen.2012_1.pdf"></iframe>
